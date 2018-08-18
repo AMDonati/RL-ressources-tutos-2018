@@ -42,4 +42,7 @@
 ### 8. People to follow (twitter, Linkedin, google scholar,facebook)
 
 
+-----------
 
+## EXERCISES: 
+* https://github.com/SupaeroDataScience/RLchallenge
