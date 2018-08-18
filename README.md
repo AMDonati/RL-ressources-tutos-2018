@@ -3,15 +3,22 @@
 ## Ressources, tutos, code, papers on Reinforcement Learning / Deep Reinforcement Learning. 
 
 ### 1. Books
-* THE REFERENCE: Introduction to Reinforcement Learning: http://incompleteideas.net/book/bookdraft2017nov5.pdf
+* **THE REFERENCE**: Introduction to Reinforcement Learning: http://incompleteideas.net/book/bookdraft2017nov5.pdf
 * Algorithms in Reinforcement Learning: https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf
 
-### 2. Videos 
+### 2. Videos/ MOOCs
 * DeepMind playlist: https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
-* D. Silver online classes: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+* **THE REFERENCE**: D. Silver online classes: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+
+#### MOOCs: 
+* COURSERA - Practical RL: https://www.coursera.org/learn/practical-rl
+* UDACITY - Reinforcement Learning: https://eu.udacity.com/course/reinforcement-learning--ud600
+* UDACITY - Deep RL: https://eu.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893
+
 ### 3. Slides
 * Slides corresponding to D.Silver classes: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 * Deep Reinforcement Learning - Berkeley University: http://rail.eecs.berkeley.edu/deeprlcourse/index.html#related-materials
+
 
 ### 4. Blog posts
 * https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
