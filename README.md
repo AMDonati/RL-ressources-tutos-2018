@@ -12,6 +12,7 @@ Tool kit for developping RL Algos and training agents: https://gym.openai.com/
 ### 2. Videos/ MOOCs
 * DeepMind playlist: https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
 * **THE REFERENCE**: D. Silver online classes: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+* Deep RL class video from John Schulman: https://www.youtube.com/watch?v=oPGVsoBonLM
 
 #### MOOCs: 
 * COURSERA - Practical RL: https://www.coursera.org/learn/practical-rl
