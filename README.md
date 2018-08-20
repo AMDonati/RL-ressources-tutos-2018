@@ -1,5 +1,8 @@
 # Collaboration between Alice and Leandro for projects using RL / Deep RL. 
 
+
+Tool kit for developping RL Algos and training agents: https://gym.openai.com/
+
 ## Ressources, tutos, code, papers on Reinforcement Learning / Deep Reinforcement Learning. 
 
 ### 1. Books
