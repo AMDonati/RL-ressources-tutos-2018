@@ -8,11 +8,15 @@ Tool kit for developping RL Algos and training agents: https://gym.openai.com/
 ### 1. Books
 * **THE REFERENCE**: Introduction to Reinforcement Learning: http://incompleteideas.net/book/bookdraft2017nov5.pdf
 * Algorithms in Reinforcement Learning: https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf
+* Artificial Intelligence - Foundation of computational agents: https://artint.info/2e/html/ArtInt2e.html
 
 ### 2. Videos/ MOOCs
 * DeepMind playlist: https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
 * **THE REFERENCE**: D. Silver online classes: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 * Deep RL class video from John Schulman: https://www.youtube.com/watch?v=oPGVsoBonLM
+
+#### short videos with RL use-cases
+* RL intro & example: https://www.youtube.com/watch?v=f2nIKFMyfSg
 
 #### MOOCs: 
 * COURSERA - Practical RL: https://www.coursera.org/learn/practical-rl
@@ -28,6 +32,12 @@ Tool kit for developping RL Algos and training agents: https://gym.openai.com/
 * https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
 * https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9
 * https://techxplore.com/news/2018-07-model-free-deep-approach-tackle-neural.html
+
+#### tutos with code:
+* https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
+
+#### Deep RL: 
+* https://ai.intel.com/demystifying-deep-reinforcement-learning/
 
 ### 5. Press articles: 
 
