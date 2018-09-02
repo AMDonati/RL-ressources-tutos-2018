@@ -1,8 +1,10 @@
 # Collaboration between Alice and Leandro for projects using RL / Deep RL. 
 
-
-Tool kit for developping RL Algos and training agents: https://gym.openai.com/
-
+## Learning sessions: 
+### 1. Hidden Markov Models: 
+* ressources here: https://github.com/AMDonati/RL_Deep-RL_AM_Leandro/wiki/First-Learning-session---HMMs
+* https://github.com/AMDonati/RL_Deep-RL_AM_Leandro/tree/master/1-HMMs
+----------------------------
 ## Ressources, tutos, code, papers on Reinforcement Learning / Deep Reinforcement Learning. 
 
 ### 1. Books
@@ -59,9 +61,9 @@ Tool kit for developping RL Algos and training agents: https://gym.openai.com/
 * https://github.com/AMDonati/dsr_rl : github repo of the class I had on RL @ Data Science Retreat
 * https://github.com/erachelson/RLclass: RL Class of the prof of the engineering school where I studied.
 * https://github.com/SuReLI/Deep-RL-agents: a collaborative project of Deep RL done by people from the engineering school where I studied. 
+------------
 
-### 8. People to follow (twitter, Linkedin, google scholar,facebook)
-
+Tool kit for developping RL Algos and training agents: https://gym.openai.com/
 
 -----------
 
