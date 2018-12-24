@@ -52,6 +52,7 @@ https://sites.google.com/view/deep-rl-bootcamp/lectures
 * Deep RL Symposium NIPS 2017: https://sites.google.com/view/deeprl-symposium-nips2017/
 
 ### 7. Some papers
+* List of key Deep RL papers from OpenAI: https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 * Deep RL: An Overview: https://arxiv.org/pdf/1701.07274.pdf
 * Playing ATARI with Deep DL: https://arxiv.org/pdf/1312.5602.pdf
 * ACTOR-MIMIC: Deep MultiTask and Transfer Reinforcement Learning: https://arxiv.org/pdf/1511.06342.pdf
