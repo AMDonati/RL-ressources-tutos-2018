@@ -9,8 +9,6 @@ _Updated November 2018_
 ### 1.bis Books - Hands-on with Python
 * https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781788836524
 Github repo: https://github.com/AMDonati/Hands-On-Reinforcement-Learning-with-Python
-* https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands  
-Github repo: https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On
 
 ### 2. Online classes from universities
 #### Intro to RL
